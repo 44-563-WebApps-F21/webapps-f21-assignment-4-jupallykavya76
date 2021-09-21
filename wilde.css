@@ -7,12 +7,23 @@ speech {
 .stage_directions{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    background-color:khaki;
+    background-color:rgb(146, 240, 109);
     color: black;
 }
 
 .name{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
-    color: black;
+    color: rgb(172, 19, 19);
+}
+.hover:hover{
+    background-color: lightcoral;
+    color: red;
+}
+
+.gerald{
+    color: darkslategray;
+}   
+.lordillingworth{
+    color:orangered;
 }
