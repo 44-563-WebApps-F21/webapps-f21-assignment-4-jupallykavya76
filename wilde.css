@@ -7,7 +7,7 @@ speech {
 .stage_directions{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    background-color:rgb(146, 240, 109);
+    background-color:rgb(183, 240, 160);
     color: black;
 }
 
@@ -18,13 +18,35 @@ speech {
 }
 .hover:hover{
     background-color: lightcoral;
-    color: red;
+    color: rgb(91, 158, 91);
 }
 
 .LORD_GORING{
     color: rgb(145, 78, 223);
 }   
+
 .JAMES{
     color:rgb(34, 158, 180);
 }
+.tableStyle{
+    border-style: dashed;
+    border-color:rgb(196, 178, 21);
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+tr:nth-child(even) {background-color: rgb(116, 94, 78);}
+
+.columnNrow{
+    border-style: double;
+    border-color: rgb(73, 41, 41);
+    padding: 15px;
+}
+
+.nameHover:hover{
+    text-shadow: 2px 2px rgb(102, 79, 102);
+    border-style: groove;
+    border-color: rgb(36, 29, 29);
+}
+
 
