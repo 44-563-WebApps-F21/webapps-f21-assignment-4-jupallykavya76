@@ -1,4 +1,4 @@
-speech {
+.speech {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     color: black;
@@ -16,7 +16,7 @@ speech {
     font-size: 25px;
     color: rgb(172, 19, 19);
 }
-.hover:hover{
+ p:hover{
     background-color: lightcoral;
     color: rgb(91, 158, 91);
 }
@@ -28,7 +28,7 @@ speech {
 .JAMES{
     color:rgb(34, 158, 180);
 }
-.tableStyle{
+#tableStyle{
     border-style: dashed;
     border-color:rgb(196, 178, 21);
     text-align: center;
@@ -37,16 +37,17 @@ speech {
 
 tr:nth-child(even) {background-color: rgb(116, 94, 78);}
 
-.columnNrow{
+ .columnNrow{
     border-style: double;
     border-color: rgb(73, 41, 41);
     padding: 15px;
 }
 
-.nameHover:hover{
-    text-shadow: 2px 2px rgb(102, 79, 102);
+h6:hover{
+    
+    text-shadow: 2px 2px rgb(163, 72, 163);
     border-style: groove;
-    border-color: rgb(36, 29, 29);
+    border-color: rgb(19, 137, 235);
 }
 
 
